@@ -1,26 +1,20 @@
-# Proyecto - Java con Pruebas para Autograding
+# Del TDA al programa: poniendo a prueba mi modelo
 
-Plantilla básica para proyecto de Java con Autograding
+## Unidad III. Estructuras Lineales
 
-## Diagrama de clases
-[Editor en línea](https://mermaid.live/)
-```mermaid
----
-title: Clase
----
-classDiagram
-      class Clase
-      Clase: -x
-      Clase: -y
-      Clase: +op1()
-      Clase: +op2()
-      Clase: +op3()
-      Clase: +op4()
-```
-[Referencia-Mermaid](https://mermaid.js.org/syntax/classDiagram.html)
+1. Propósito de la actividad
 
-## Diagrama de clases UML con draw.io
-El repositorio está configurado para crear Diagramas de clases UML con ```draw.io```. Para usarlo simplemente agrega un archivo con extensión ```.drawio.png```, das doble clic sobre el mismo y se activará el editor ```draw.io``` incrustado en ```VSCode``` para edición. Asegúrate de agregar las formas UML en el menú de formas del lado izquierdo (opción ```+Más formas```).
+En la Unidad I diseñaste un Tipo de Dato Abstracto (TDA) para representar una situación de la vida real.
+
+Ahora tendrás que dar un paso más: convertir ese modelo en un programa en Java.
+
+El propósito de esta actividad es que compruebes si el TDA que diseñaste contiene toda la información necesaria para desarrollar un programa funcional.
+
+Durante la implementación podrás descubrir que necesitas agregar clases, atributos, relaciones u operaciones que no habías considerado originalmente. Esto es parte del aprendizaje.
+
+No se busca que tu primer diseño sea perfecto. Se busca que aprendas a identificar y corregir las necesidades que aparecen al intentar implementarlo.
+
+## NOTA: El resto de la información la encontrarás en el documento adjunto en la tarea de moodle.
 
 ## Uso del proyecto con make
 
